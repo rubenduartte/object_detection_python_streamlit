@@ -1,0 +1,6 @@
+names:
+- '''facebook'''
+- '''intagram'''
+nc: 2
+train: C:\Users\Ruben\Desktop\sistema-logo\train/images
+val: C:\Users\Ruben\Desktop\sistema-logo\val
